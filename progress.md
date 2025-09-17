@@ -1,4 +1,3 @@
-
 # 30-Day Android Challenge – Progress
 
 ### Week 1: Basics (Days 1–7)
